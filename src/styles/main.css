@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@import "./variables.css";
+@import "./base.css";
+@import "./typography.css";
+@import "./components.css";
+
+@import "./sections/header.css";
+@import "./sections/hero.css";
+@import "./sections/services.css";
+@import "./sections/about.css";
+@import "./sections/advantages.css";
+@import "./sections/cta.css";
+@import "./sections/footer.css";

@@ -9,3 +9,5 @@ await loadComponent("#about", "/src/components/about.html");
 await loadComponent("#advantages", "/src/components/advantages.html");
 await loadComponent("#cta", "/src/components/cta.html");
 await loadComponent("#footer", "/src/components/footer.html");
+
+lucide.createIcons()
